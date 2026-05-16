@@ -7,6 +7,10 @@ The goal of this analysis was not only to create dashboards, but also to underst
 
 Using SQL-based analysis and visualization techniques, the project identifies operational bottlenecks and profitability drivers that can help businesses make better supply chain decisions.
 
+## Live Dashboard
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/sudarshan.k2019/vizzes)
+
 # Dashboard Preview
 
 ## Supply Chain Operations & Delivery Insights
